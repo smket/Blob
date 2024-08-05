@@ -1,0 +1,25 @@
+To    300    100
+    4[Ace of Stones]1[Two of Stones]4[Three of Stones]4[Four of Stones]1[Five of Stones]7[Six of Stones]3[Seven of Stones]4[Eight of Stones]
+    3[Ace of Waves]2[Three of Waves]3[Four of Waves]3[Five of Waves]4[Six of Waves]4[Seven of Waves]2[Eight of Waves]
+    5[Ace of the Winds]6[Two of the Winds]1[Three of the Winds]1[Four of the Winds]4[Five of the Winds]3[Six of the Winds]2[Seven of the Winds]1[Eight of the Winds]
+    5[Ace of Embers]3[Two of Embers]2[Three of Embers]3[Four of Embers]1[Five of Embers]5[Six of Embers]7[Seven of Embers]2[Eight of Embers]
+To    400    100
+    6[Ace of Stones]2[Two of Stones]4[Three of Stones]1[Four of Stones]2[Five of Stones]4[Six of Stones]1[Seven of Stones]4[Eight of Stones]
+    3[Ace of the Winds]3[Two of the Winds]3[Three of the Winds]3[Four of the Winds]2[Five of the Winds]2[Six of the Winds]4[Seven of the Winds]3[Eight of the Winds]
+    3[Ace of Waves]3[Two of Waves]1[Three of Waves]3[Four of Waves]4[Five of Waves]3[Six of Waves]7[Seven of Waves]1[Eight of Waves]
+    2[Ace of Embers]5[Two of Embers]3[Three of Embers]1[Four of Embers]7[Five of Embers]2[Six of Embers]5[Seven of Embers]3[Eight of Embers]
+To    500    100
+    1[Ace of Waves]4[Two of Waves]1[Three of Waves]3[Four of Waves]2[Five of Waves]1[Six of Waves]4[Seven of Waves]2[Eight of Waves]
+    2[Ace of the Winds]2[Two of the Winds]1[Three of the Winds]7[Four of the Winds]1[Five of the Winds]3[Six of the Winds]6[Seven of the Winds]3[Eight of the Winds]
+    1[Ace of Stones]3[Two of Stones]4[Three of Stones]4[Four of Stones]2[Five of Stones]2[Six of Stones]2[Seven of Stones]3[Eight of Stones]
+    2[Ace of Embers]4[Two of Embers]4[Three of Embers]6[Four of Embers]7[Five of Embers]4[Six of Embers]4[Seven of Embers]5[Eight of Embers]
+To    600    100
+    3[Ace of Stones]3[Two of Stones]3[Three of Stones]3[Four of Stones]4[Five of Stones]1[Six of Stones]5[Seven of Stones]1[Eight of Stones]
+    3[Ace of Waves]5[Two of Waves]2[Three of Waves]3[Four of Waves]2[Five of Waves]2[Six of Waves]3[Seven of Waves]2[Eight of Waves]
+    3[Ace of the Winds]2[Two of the Winds]5[Three of the Winds]2[Four of the Winds]3[Five of the Winds]6[Six of the Winds]2[Seven of the Winds]5[Eight of the Winds]
+    2[Ace of Embers]5[Two of Embers]1[Three of Embers]3[Four of Embers]1[Five of Embers]6[Six of Embers]2[Seven of Embers]7[Eight of Embers]
+To    700    100
+    2[Two of Stones]4[Six of Stones]4[Seven of Stones]5[Eight of Stones]
+    6[Ace of the Winds]7[Two of the Winds]5[Three of the Winds]6[Four of the Winds]2[Five of the Winds]3[Six of the Winds]2[Seven of the Winds]6[Eight of the Winds]
+    1[Ace of Waves]5[Two of Waves]3[Three of Waves]1[Four of Waves]2[Five of Waves]3[Six of Waves]3[Seven of Waves]2[Eight of Waves]
+    2[Ace of Embers]1[Two of Embers]2[Three of Embers]7[Four of Embers]4[Five of Embers]3[Six of Embers]2[Seven of Embers]7[Eight of Embers]
